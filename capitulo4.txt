@@ -1,4 +1,12 @@
 aaaa
 aaaa
 
+<<<<<<< HEAD
 capitulo 4
+=======
+aaaaa
+aaaa
+
+aaaaa
+alteração branch 2
+>>>>>>> ajuste2
